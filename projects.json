@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "name": "WEBSITE DESIGN AND DEVELOPMENT",
+      "projects": [
+        {
+          "name": "DEGEN DOLPHIN BUSINESS",
+          "desc": "NFT PROJECT",
+          "img": "https://raw.githubusercontent.com/bufferingexplore/temp-img-host-92932/main/porto-img/ddb.png",
+          "link": "https://example.com/degen-dolphin-business"
+        },
+        {
+          "name": "CLUBTORO",
+          "desc": "MEME TOKEN PROJECT",
+          "img": "https://raw.githubusercontent.com/bufferingexplore/temp-img-host-92932/main/porto-img/clubtoro.png",
+          "link": "https://example.com/clubtoro"
+        },
+        {
+          "name": "MAN IN FINANCE",
+          "desc": "MEME TOKEN PROJECT",
+          "img": "https://raw.githubusercontent.com/bufferingexplore/temp-img-host-92932/main/porto-img/mif.png",
+          "link": false
+        }
+      ]
+    },
+    {
+      "name": "GRAPHIC DESIGN",
+      "projects": [
+        {
+          "name": "BUBBLE GOASE BALLERS",
+          "desc": "NFT PROJECT",
+          "img": "https://raw.githubusercontent.com/bufferingexplore/temp-img-host-92932/main/porto-img/graphic-design-1.png",
+          "link": false
+        },
+        {
+          "name": "CYBERFROGS",
+          "desc": "BOOK PROJECT",
+          "img": "https://raw.githubusercontent.com/bufferingexplore/temp-img-host-92932/main/porto-img/graphic-design-2.png",
+          "link": false
+        }
+      ]
+    }
+  ]
+}
